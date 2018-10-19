@@ -393,6 +393,7 @@ short_title:
   type: t
   attr:
     - single
+    - stored
 source_of_acquisition:
   type: t
   attr:
